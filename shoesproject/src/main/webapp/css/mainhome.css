@@ -350,32 +350,7 @@
     height: 200px;
 }
 /* 셀럽 이미지 끝*/
-/*하단 시작*/
-footer{
-    width: 1180px;
-    border: 1px solid black;
-    clear: both;
-    height: 200px;
-    margin: 0 auto;
-}
-/* GitLink*/
-.gitLink{
-	font-family: 'SEBANG_Gothic_Bold';
-	font-size:30px;
-	color: white;
-}
-.gitLink:hover, .gitLink:link , .gitLink:active , .gitLink:visited{
-	text-decoration: none;
-}
 
-
-
-/* footerURL  */
-#footerURL{
-	text-align:center;
-	padding-top: 60px;
-}
-/*하단 끝*/
 /* 모두 끝 */
 
 
