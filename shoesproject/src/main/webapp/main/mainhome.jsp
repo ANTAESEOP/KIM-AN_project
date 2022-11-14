@@ -318,8 +318,8 @@
 	
 		
 	<div id= main>  <!-- 메인에서 얘러뜨는거 원래 그런겁니다.  -->
-		<section class="member_brand">
-			<div class="brand_content">이달의 인기 브랜드</div> 
+		<section class="admin_brand">
+			<div class="admin_brand_content">이달의 인기 브랜드</div> 
 			<div class="admin_month_popular_brand">
 				<div>1.Nike&nbsp;&nbsp;&nbsp;</div>
 				<div>2.밀레&nbsp;&nbsp;&nbsp;</div>
@@ -624,7 +624,7 @@
 	
 	<div id= main>
 		<section class="member_brand">
-			<div class="brand_content">이달의 인기 브랜드</div> 
+			<div class="member_brand_content">이달의 인기 브랜드</div> 
 			<div class="member_month_popular_brand">
 				<div>1.Nike&nbsp;&nbsp;&nbsp;</div>
 				<div>2.밀레&nbsp;&nbsp;&nbsp;</div>
