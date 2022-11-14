@@ -51,7 +51,7 @@
 				</tr>	
 				<tr>
 					<td>출시일</td>
-					<td><input type="text" name="preleaseday" class="ntitle" placeholder="ex) 22/11/05 "> </td>
+					<td><input type="text" name="preleaseday" class="ntitle" placeholder="ex) 2022-11-05 "> </td>
 				</tr>	
 				<tr>
 					<td id="detail_explain">이미지</td>

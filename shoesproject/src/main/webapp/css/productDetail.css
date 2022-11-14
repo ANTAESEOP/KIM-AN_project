@@ -199,18 +199,29 @@ th{
 
 /*하단 시작*/
 footer{
-	width: 1200px;
-	height: 300px;
-	border: 1px solid black;
-	clear:both;
-	width:100%;
-	height: 200px;
+    width: 1180px;
+    border: 1px solid black;
+    background-color: #eeeef1;;
+    clear: both;
+    height: 150px;
+    margin: 0 auto;
 }
 /* GitLink*/
 .gitLink{
-	font-family: 'YdestreetB';
-	font-size:30px;
-	color: white;
+    font-family: 'SEBANG_Gothic_Bold';
+    font-size: 15px;
+    color: white;
+}
+.gitLink:nth-child(1) , .gitLink:nth-child(2) .gitLink:nth-child(3) , .gitLink:nth-child(4){
+padding: 15px;
+	
+	
+}
+.gitLink:nth-child(5) , .gitLink:nth-child(6){
+	
+	margin: 10px;
+	
+	
 }
 .gitLink:hover, .gitLink:link , .gitLink:active , .gitLink:visited{
 	text-decoration: none;

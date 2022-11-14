@@ -967,7 +967,7 @@
 			</div>	
 			<!-- 슬라이드 끝 -->
 		
-		</section>
+		</section> 
 		<!-- 메인 이미지 슬라이드 끝 -->
 		<section class="main_img_slade" id="popular_product">
 		<div class="product_img_content">BEST CATEGORY</div>
@@ -996,12 +996,13 @@
 		<!-- 푸터 시작 -->
 		<footer>
 	        <div id="footerURL">
-	           <a class="gitLink" href="https://github.com/ANTAESEOP/KIM-AN_project">GitHub주소</a> |
-	           <a class="gitLink" href="https://www.figma.com/file/8Kxyjx0AdCmfHTwTl1ShGz/Untitled?node-id=4%3A2">Figma주소</a><br>           
 	           <a class="gitLink" href="https://github.com/kimkyoungju">김경주</a> | 
-	           <a class="gitLink" href="https://github.com/ANTAESEOP">안태섭</a> | 
-	           <a class="gitLink" href="https://github.com/Hinsang">인상</a> |
-	           <a class="gitLink" href="https://github.com/kanghyungyu3614">강현규</a> 
+	           <a class="gitLink" href="https://github.com/ANTAESEOP">안태섭</a> | &nbsp;
+	           <a class="gitLink" href="https://github.com/Hinsang">인상</a> | &nbsp;
+	           <a class="gitLink" href="https://github.com/kanghyungyu3614">강현규</a> <br>
+	           <a class="gitLink" href="https://github.com/ANTAESEOP/KIM-AN_project">GitHub주소</a> |
+	           <a class="gitLink" href="https://www.figma.com/file/8Kxyjx0AdCmfHTwTl1ShGz/Untitled?node-id=4%3A2">Figma주소</a>           
+	          
 	         </div>			
 		</footer>
 		<!-- 푸터 끝  -->

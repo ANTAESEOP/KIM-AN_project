@@ -18,6 +18,7 @@ function detail() {
 			let pimg = "/shoesproject/pupload/"+ product.pimg
 			document.querySelector('.priceimg').src = pimg
 			document.querySelector('.priceimg1').src = pimg
+			
 			document.querySelector('.product').src = pimg
 			document.querySelector(".productname").innerHTML = product.pname
 			document.querySelector(".productdate").innerHTML = product.preleaseday
@@ -57,7 +58,7 @@ function sellAddButton(num){ // 판매
 				'<td>유저아이디</td>'+
 			'</tr>';
 			for(let i = 0; i<json.length; i++){
-
+			
 		    html += '<tr class="productlist">'
 					    +'<td><button class="productlist" onclick="productlist('+json[i].spno+')">'+json[i].spsize+'</button></td>'
 					    +'<td><button class="productlist" onclick="productlist('+json[i].spno+')">'+json[i].spprice+'</button></td>'
@@ -361,4 +362,3 @@ $(window).scroll(function () {
 	}
 
 })
-
