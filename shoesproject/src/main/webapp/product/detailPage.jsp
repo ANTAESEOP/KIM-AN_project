@@ -13,6 +13,9 @@
 <body>
 
 	<%@include file="../main/mainbaner.jsp" %>
+	
+	<%if (lid == null) {response.sendRedirect("/shoesproject/view/login.jsp");}%>
+	
 	<div id="main">
 		<section class="main_section">
 		   	<div class="img_coponent"> <!--  여기가 시작 -->
