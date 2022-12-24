@@ -63,6 +63,7 @@ figma : https://bit.ly/3THDIlG <br>
 </tr>
 </table>
 # Shoe_project 시연 영상 <br>
+<a href="https://bit.ly/3GgxRjH">발표영상<a/>
 <a href="https://bit.ly/3UWxyPE">시연 영상 1번<a/><br>
 <a href="https://bit.ly/3Ge0Bty">시연 영상 2번<a/><br>
 <a href="https://bit.ly/3tsRBt2">시연 영상 3번<a/>
